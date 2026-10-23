@@ -1,0 +1,28 @@
+{
+  "id": "./",
+  "name": "Моя кухня",
+  "short_name": "Моя кухня",
+  "description": "Домашние рецепты, меню на неделю и список покупок",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf8f2",
+  "theme_color": "#54745b",
+  "prefer_related_applications": false,
+  "categories": ["food", "lifestyle"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
